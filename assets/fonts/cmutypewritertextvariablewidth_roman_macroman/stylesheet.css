@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_typewriter_text_variablMd';
+    src: url('cmunvt-webfont.eot');
+    src: url('cmunvt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunvt-webfont.woff2') format('woff2'),
+         url('cmunvt-webfont.woff') format('woff'),
+         url('cmunvt-webfont.ttf') format('truetype'),
+         url('cmunvt-webfont.svg#cmu_typewriter_text_variablMd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

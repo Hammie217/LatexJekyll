@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_typewriter_textlight';
+    src: url('cmunbtl-webfont.eot');
+    src: url('cmunbtl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunbtl-webfont.woff2') format('woff2'),
+         url('cmunbtl-webfont.woff') format('woff'),
+         url('cmunbtl-webfont.ttf') format('truetype'),
+         url('cmunbtl-webfont.svg#cmu_typewriter_textlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

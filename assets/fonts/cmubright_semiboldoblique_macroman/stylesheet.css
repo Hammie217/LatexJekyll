@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_brightsemiboldoblique';
+    src: url('cmunbso-webfont.eot');
+    src: url('cmunbso-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunbso-webfont.woff2') format('woff2'),
+         url('cmunbso-webfont.woff') format('woff'),
+         url('cmunbso-webfont.ttf') format('truetype'),
+         url('cmunbso-webfont.svg#cmu_brightsemiboldoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_serif_upright_ituprightIt';
+    src: url('cmunui-webfont.eot');
+    src: url('cmunui-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunui-webfont.woff2') format('woff2'),
+         url('cmunui-webfont.woff') format('woff'),
+         url('cmunui-webfont.ttf') format('truetype'),
+         url('cmunui-webfont.svg#cmu_serif_upright_ituprightIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

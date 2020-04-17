@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_serifitalic';
+    src: url('cmunti-webfont.eot');
+    src: url('cmunti-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunti-webfont.woff2') format('woff2'),
+         url('cmunti-webfont.woff') format('woff'),
+         url('cmunti-webfont.ttf') format('truetype'),
+         url('cmunti-webfont.svg#cmu_serifitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

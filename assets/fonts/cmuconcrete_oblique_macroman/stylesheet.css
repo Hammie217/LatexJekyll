@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_concreteitalic';
+    src: url('cmunoti-webfont.eot');
+    src: url('cmunoti-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunoti-webfont.woff2') format('woff2'),
+         url('cmunoti-webfont.woff') format('woff'),
+         url('cmunoti-webfont.ttf') format('truetype'),
+         url('cmunoti-webfont.svg#cmu_concreteitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

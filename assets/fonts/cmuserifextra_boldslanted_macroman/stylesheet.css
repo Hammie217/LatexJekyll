@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_serif_extraboldslanted';
+    src: url('cmunbl-webfont.eot');
+    src: url('cmunbl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunbl-webfont.woff2') format('woff2'),
+         url('cmunbl-webfont.woff') format('woff'),
+         url('cmunbl-webfont.ttf') format('truetype'),
+         url('cmunbl-webfont.svg#cmu_serif_extraboldslanted') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

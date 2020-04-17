@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_typewriter_textitalic';
+    src: url('cmunit-webfont.eot');
+    src: url('cmunit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunit-webfont.woff2') format('woff2'),
+         url('cmunit-webfont.woff') format('woff'),
+         url('cmunit-webfont.ttf') format('truetype'),
+         url('cmunit-webfont.svg#cmu_typewriter_textitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

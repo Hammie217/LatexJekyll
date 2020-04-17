@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_brightoblique';
+    src: url('cmunbmo-webfont.eot');
+    src: url('cmunbmo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunbmo-webfont.woff2') format('woff2'),
+         url('cmunbmo-webfont.woff') format('woff'),
+         url('cmunbmo-webfont.ttf') format('truetype'),
+         url('cmunbmo-webfont.svg#cmu_brightoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

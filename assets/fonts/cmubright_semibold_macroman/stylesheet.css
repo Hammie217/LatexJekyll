@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_brightsemibold';
+    src: url('cmunbsr-webfont.eot');
+    src: url('cmunbsr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunbsr-webfont.woff2') format('woff2'),
+         url('cmunbsr-webfont.woff') format('woff'),
+         url('cmunbsr-webfont.ttf') format('truetype'),
+         url('cmunbsr-webfont.svg#cmu_brightsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

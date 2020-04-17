@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_concretebolditalic';
+    src: url('cmunobi-webfont.eot');
+    src: url('cmunobi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunobi-webfont.woff2') format('woff2'),
+         url('cmunobi-webfont.woff') format('woff'),
+         url('cmunobi-webfont.ttf') format('truetype'),
+         url('cmunobi-webfont.svg#cmu_concretebolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

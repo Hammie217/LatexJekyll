@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_concreteroman';
+    src: url('cmunorm-webfont.eot');
+    src: url('cmunorm-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunorm-webfont.woff2') format('woff2'),
+         url('cmunorm-webfont.woff') format('woff'),
+         url('cmunorm-webfont.ttf') format('truetype'),
+         url('cmunorm-webfont.svg#cmu_concreteroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

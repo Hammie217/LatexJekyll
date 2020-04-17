@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_serif_extraromanslanted';
+    src: url('cmunsl-webfont.eot');
+    src: url('cmunsl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunsl-webfont.woff2') format('woff2'),
+         url('cmunsl-webfont.woff') format('woff'),
+         url('cmunsl-webfont.ttf') format('truetype'),
+         url('cmunsl-webfont.svg#cmu_serif_extraromanslanted') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cmu_sans_serifmedium';
+    src: url('cmunss-webfont.eot');
+    src: url('cmunss-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cmunss-webfont.woff2') format('woff2'),
+         url('cmunss-webfont.woff') format('woff'),
+         url('cmunss-webfont.ttf') format('truetype'),
+         url('cmunss-webfont.svg#cmu_sans_serifmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
