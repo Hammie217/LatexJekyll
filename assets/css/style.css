@@ -1,25 +1,81 @@
 @font-face {
-    font-family: myFirstFont;
+    font-family: CMR;
     src: url(../fonts/cmuserif_roman_macroman/cmunrm-webfont.woff);
+  }
+  @font-face {
+    font-family: CMB;
+    src: url(../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff);
   }
 
 
-
 .LatexTitle{
-    font-family: myFirstFont;
+    font-family: CMR;
     font-size: 40px;
-    padding-top: 20%;
+    padding-top: 40vh;
     text-align: center;
     margin-bottom: 20px;
 }
 
 .LatexName{
-    font-family: myFirstFont;
-    font-size: 25px;
+    font-family: CMR;
+    font-size: 27px;
     text-align: center;
+    margin-bottom: 13px;
 }
 .LatexDate{
-    font-family: myFirstFont;
+    font-family: CMR;
+    font-size: 27px;
+    text-align: center;
+    margin-top: 13px;
+    margin-bottom: 45px;
+}
+
+.LatexAbstract{
+    font-family: CMB;
+    font-weight: bold;
     font-size: 25px;
     text-align: center;
+    margin-bottom: 10px;
+}
+
+.LatexAbstractText{
+    margin-top:10px;
+    font-family: CMR;
+    font-size: 21px;
+    text-align: center;
+    text-align: justify;
+    text-indent: 20px
+}
+
+.Margins{
+    padding-left: 21%;
+    width: 58%;
+}
+
+.AbstractMargins{
+    padding-left: 6%;
+    width: 88%;
+    padding-bottom: 15px;
+}
+
+.Section{
+    font-family: CMB;
+    font-size: 33px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
+.BodyText{
+    font-family: CMR;
+    font-size: 23px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 125%;
+}
+
+.footerSize{
+    height: 30vh;
+    width: 100%;
 }

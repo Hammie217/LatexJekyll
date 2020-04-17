@@ -6,11 +6,25 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <p class="LatexTitle">{{ page.title }}</p>
-    <p class="LatexName">{{ page.creator }}</p>
-    <p class="LatexDate">{{ page.date }}</p>
   </head>
   <body>
+    <div class="Margins">
+      <p class="LatexTitle">{{ page.title }}</p>
+      {% if page.creator %} <p class="LatexName">{{ page.creator }}</p> {% endif %}
+      {% if page.date %} <p class="LatexDate">{{ page.date }}</p> {% endif %}
+      
+      {% if page.abstract %}<div class="AbstractMargins">
+        <p class="LatexAbstract">Abstract</p>
+        <p class="LatexAbstractText">{{ page.abstract }}</p>
+      </div>{% endif %}
 
+      
+      {{ content }}
+
+
+    </div>
   </body>
+  <footer class="footerSize">
+
+  </footer>
 </html>
