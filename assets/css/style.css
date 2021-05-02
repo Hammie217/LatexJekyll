@@ -66,6 +66,15 @@
     margin-bottom: 20px;
 }
 
+
+.SubSection{
+    font-family: CMB;
+    font-size: 29px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 20px;
+}
+
 .BodyText{
     font-family: CMR;
     font-size: 23px;
@@ -73,6 +82,32 @@
     margin-top: 13px;
     margin-bottom: 45px;
     line-height: 125%;
+    column-count: 1;
+}
+
+.BodyText2Col{
+    font-family: CMR;
+    font-size: 23px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 125%;
+    column-count: 2;
+}
+
+.BodyText3Col{
+    font-family: CMR;
+    font-size: 23px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 125%;
+    column-count: 3;
+}
+
+.Justified{
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .footerSize{
