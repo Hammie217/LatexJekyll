@@ -114,3 +114,43 @@
     height: 30vh;
     width: 100%;
 }
+
+.tiny{
+    font-size: 8px;
+}
+
+.scriptSize{
+    font-size: 11px;
+}
+
+.footnotesize{
+    font-size: 13px;
+}
+
+.small{
+    font-size: 15px;
+}
+
+.normalsize{
+    font-size: 18px;
+}
+
+.large{
+    font-size: 19px;
+}
+
+.Large{
+    font-size: 23px;
+}
+
+.LARGE{
+    font-size: 28px;
+}
+
+.huge{
+    font-size: 33px;
+}
+
+.HUGE{
+    font-size: 33px;
+}
