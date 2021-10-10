@@ -49,3 +49,7 @@
  - LARGE
  - huge
  - HUGE
+
+ ### Maths
+
+ Maths is delivered using mathJax. An inline latex equation can be done with "\( ... \)" or on a new line using "\[ ... \]".
