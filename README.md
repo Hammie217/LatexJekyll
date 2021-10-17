@@ -19,10 +19,10 @@
 
 ### Title settings
 
- - title - Set the main page title
- - author -  Set the authors name on the title page. Removed if none defined.
- - date - Set the front page date. Removed if none defined.
- - abstract - Set the text for the abstract. Removed if none defined.
+ - title - Sets the main page title.
+ - author -  Sets the authors name on the title page. Removed if none defined.
+ - date - Sets the front page date. Removed if none defined.
+ - abstract - Sets the text for the abstract. Removed if none defined.
 
 
 ### Sections
@@ -32,9 +32,9 @@
 
 ### Body settings
 
- - BodyText - Sets paragraph settings for single column. `<p  class="BodyText">`
- - BodyText2Col  - Sets paragraph settings for double colum. `<p  class="BodyText2Col">`
- - BodyText3Col  - Sets paragraph settings for triple column. `<p  class="BodyText3Col">`
+ - BodyText - Sets paragraph settings for a single column. `<p  class="BodyText">`
+ - BodyText2Col  - Sets paragraph settings for a double colum. `<p  class="BodyText2Col">`
+ - BodyText3Col  - Sets paragraph settings for a triple column. `<p  class="BodyText3Col">`
  - Justified - Justifies text to take 100% of the width. `<p  class="Justified">`
 
 ### Font sizes
